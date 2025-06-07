@@ -95,9 +95,3 @@ Based on the findings:
 
 ---
 
-## 📫 Contact
-
-For any questions or to collaborate on future projects, feel free to reach out via [LinkedIn](https://www.linkedin.com) or GitHub!
-
----
-

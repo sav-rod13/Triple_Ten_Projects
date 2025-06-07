@@ -15,7 +15,7 @@ Excel (.xlsx) dataset
 
 
 📊 View the Dashboard
-🔗 Click here to view the published Tableau dashboard
+🔗 Click here to view the published Tableau dashboard https://public.tableau.com/views/SavingSuperStore-SavannahRodriguezAnalysis/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 🔍 Key Findings
